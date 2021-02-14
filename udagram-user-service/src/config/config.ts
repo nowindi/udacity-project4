@@ -6,6 +6,7 @@ export const config = {
   'dialect': "postgres",
   'aws_region': 'eu-west-1c',
   'aws_profile': 'default',
+  'url': 'http://localhost:8080'
   // 'aws_region': process.env.AWS_REGION,
   // 'aws_media_bucket': process.env.AWS_BUCKET,
   // 'url': process.env.URL,
